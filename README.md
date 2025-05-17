@@ -9,7 +9,7 @@
 
 ---
 
-## ⚙️ What the AI Actually Does
+## What the AI Actually Does
 
 - It looks at a collection of images(dataset)
 - Learns crucial patterns
@@ -20,7 +20,7 @@ I trained it in Google Colab using Python.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is not a diagnostic tool.  
 It’s a prototype meant to explore the use of machine learning in healthcare-related problems.  
