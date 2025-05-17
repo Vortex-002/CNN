@@ -13,7 +13,7 @@
 
 - It looks at a collection of images(dataset)
 - Learns crucial patterns
-- Applies them to predict he disease
+- Applies them to predict the disease
 
 I trained it in Google Colab using Python.
 
